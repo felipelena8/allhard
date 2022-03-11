@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/allhard/static/css/main.64ddc7f4.css",
+    "main.js": "/allhard/static/js/main.d8178636.js",
+    "static/js/787.83080db9.chunk.js": "/allhard/static/js/787.83080db9.chunk.js",
+    "index.html": "/allhard/index.html",
+    "main.64ddc7f4.css.map": "/allhard/static/css/main.64ddc7f4.css.map",
+    "main.d8178636.js.map": "/allhard/static/js/main.d8178636.js.map",
+    "787.83080db9.chunk.js.map": "/allhard/static/js/787.83080db9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64ddc7f4.css",
+    "static/js/main.d8178636.js"
+  ]
+}
